@@ -1,0 +1,33 @@
+
+
+body{
+    background-color: black;
+}
+
+#first{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+.poster{
+    height: 300px;
+    width: 600px;
+    margin-left: 25%;
+  
+    border:  5px solid white;
+    margin-top: 25px
+    
+
+    
+
+    
+}
+
+#third{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    
+
+}
